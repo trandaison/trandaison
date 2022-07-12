@@ -4,6 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trandaison&count_private=true&show_icons=true&bg_color=30,478ba2,de5b6d&title_color=fff&text_color=fff&icon_color=eee)](https://github.com/trandaison/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=trandaison&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trandaison&bg_color=30,5ba8a0,ffbd71&title_color=fff&text_color=fff&icon_color=eee)](https://github.com/trandaison/github-readme-stats)
 
 # My Repositories
