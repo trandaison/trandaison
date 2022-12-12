@@ -15,8 +15,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trandaison&repo=spinner-favicon&bg_color=30,a7d676,85cbcc&title_color=fff&text_color=fff&icon_color=eee)](https://github.com/trandaison/spinner-favicon)
 
 # Contributed repositories
-https://github.com/nuxt-community/auth-module
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuxt-community&repo=auth-module&bg_color=30,067d68,50d5b7&title_color=fff&text_color=fff&icon_color=eee)](https://github.com/nuxt-community/auth-module/pull/1796)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=makinacorpus&repo=Leaflet.GeometryUtil&bg_color=30,f9957f,f2f5d0&title_color=fff&text_color=fff&icon_color=eee)](https://github.com/makinacorpus/Leaflet.GeometryUtil/pull/71)
