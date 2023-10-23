@@ -10,6 +10,8 @@
 
 # My Repositories
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trandaison&repo=vscode-duplicate&bg_color=30,6f5f90,cdb3d4&title_color=fff&text_color=fff&icon_color=eee)](https://github.com/trandaison/vscode-duplicate)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trandaison&repo=v-pagy&bg_color=30,6f5f90,cdb3d4&title_color=fff&text_color=fff&icon_color=eee)](https://github.com/trandaison/v-pagy)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trandaison&repo=spinner-favicon&bg_color=30,a7d676,85cbcc&title_color=fff&text_color=fff&icon_color=eee)](https://github.com/trandaison/spinner-favicon)
