@@ -10,7 +10,9 @@
 
 # My Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trandaison&repo=vscode-duplicate&bg_color=30,6f5f90,cdb3d4&title_color=fff&text_color=fff&icon_color=eee)](https://github.com/trandaison/vscode-duplicate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trandaison&repo=nuxt-3-auth&bg_color=30,00C492,5672cd&title_color=fff&text_color=fff&icon_color=eee)](https://github.com/trandaison/vscode-duplicate)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trandaison&repo=vscode-duplicate&bg_color=30,5672cd,FF756B&title_color=fff&text_color=fff&icon_color=eee)](https://github.com/trandaison/vscode-duplicate)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trandaison&repo=v-pagy&bg_color=30,6f5f90,cdb3d4&title_color=fff&text_color=fff&icon_color=eee)](https://github.com/trandaison/v-pagy)
 
