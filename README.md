@@ -1,4 +1,4 @@
-# Thanks for stopping by
+# Thanks for stopping by ![](https://komarev.com/ghpvc/?username=trandaison&color=gray)
 
 `Hi! I'm a web developer!`
 
