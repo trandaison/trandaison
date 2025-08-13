@@ -10,6 +10,8 @@
 
 # My Open Source
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trandaison&repo=backlog-ai-ext&bg_color=30,42CE9F,FFF600&title_color=fff&text_color=fff&icon_color=eee)](https://github.com/trandaison/backlog-ai-ext)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trandaison&repo=nuxt-3-auth&bg_color=30,00C492,5672cd&title_color=fff&text_color=fff&icon_color=eee)](https://github.com/trandaison/nuxt-3-auth)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=trandaison&repo=changeloger&bg_color=30,dc880c,f1e05a&title_color=fff&text_color=fff&icon_color=eee)](https://github.com/trandaison/nuxt-3-changeloger)
